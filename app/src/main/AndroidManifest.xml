@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="jp.ac.chiba_fjb.a.sotsuken">
+    package="jp.ac.chiba_fjb.a.sotsuken01">
 
     <application
         android:allowBackup="true"
