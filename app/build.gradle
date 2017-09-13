@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "jp.ac.chiba_fjb.a.test0912"
+        applicationId "jp.ac.chiba_fjb.a.sotsuken"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
